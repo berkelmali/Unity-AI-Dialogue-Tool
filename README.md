@@ -54,6 +54,15 @@ The tool converts runtime objects into persistent data using JsonUtility.
     "dateCreated": "12/19/2025"
 }
 ```
+### ⚖️ License & Rights
+⚠️ PROPRIETARY LICENSE - ALL RIGHTS RESERVED
+
+This software and its associated documentation are the exclusive property of Berk Elmalı.
+No Commercial Use: You may not use this source code for commercial purposes without explicit written permission from the author.
+No Modification: You may not modify, distribute, or create derivative works based on this project.
+No Distribution: You may not host this code on any public repository or server without authorization.
+For permission requests, please contact the author directly.
+
 ### 🚀 How to Install
 Clone this repository.
 
