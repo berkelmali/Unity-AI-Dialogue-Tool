@@ -8,7 +8,7 @@ A professional **Unity Editor Tool** designed to streamline the creation of dyna
 
 ## 📸 Preview
 
-!<img width="755" height="771" alt="image" src="https://github.com/user-attachments/assets/2d3e5d53-4adf-4f7d-a4be-51366af3df73" />
+<img width="755" height="771" alt="image" src="https://github.com/user-attachments/assets/2d3e5d53-4adf-4f7d-a4be-51366af3df73" />
 
 
 *(This tool allows developers to generate and save dialogues without leaving the Unity Editor)*
@@ -35,7 +35,7 @@ public static void ShowWindow()
 ```
 ### 2. Async/Await Pattern (No Coroutines)
 Instead of legacy Coroutines, modern Task based asynchronous programming is used to simulate API latency.
-```
+```csharp
 async void GenerateMockDialogue()
 {
     isGenerating = true;
@@ -47,18 +47,18 @@ async void GenerateMockDialogue()
 ```
 ### 3. Data Serialization
 The tool converts runtime objects into persistent data using JsonUtility.
-```
+```csharp
 {
     "characterName": "Wretched Beggar",
     "dialogueText": "[Wretched Beggar]: Alms for the poor...",
     "dateCreated": "12/19/2025"
 }
 ```
-🚀 How to Install
+### 🚀 How to Install
 Clone this repository.
 
 Open the project in Unity 6 (6000.x) or later.
 Navigate to the top menu: My AI Tools -> Dialogue Generator.
 
-👨‍💻 Author
+### 👨‍💻 Author Berk Elmalı
 Developed as a demonstration of Tool Programming, Editor Scripting, and System Architecture in Unity.
