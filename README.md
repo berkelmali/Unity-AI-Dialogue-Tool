@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-6000.x-000000?style=flat&logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=c-sharp)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-Proprietary-red)
 
 A professional **Unity Editor Tool** designed to streamline the creation of dynamic NPC dialogues. This tool simulates AI-driven text generation using asynchronous calls (`async/await`) to prevent editor freezing and utilizes **JSON Serialization** to save generated data for in-game implementation.
 
