@@ -8,7 +8,8 @@ A professional **Unity Editor Tool** designed to streamline the creation of dyna
 
 ## 📸 Preview
 
-![Tool Screenshot](https://via.placeholder.com/800x400?text=Please+Upload+Your+Screenshot+Here)
+![Tool Screenshot](<img width="755" height="771" alt="image" src="https://github.com/user-attachments/assets/2d3e5d53-4adf-4f7d-a4be-51366af3df73" />
+)
 *(This tool allows developers to generate and save dialogues without leaving the Unity Editor)*
 
 ## 🌟 Key Features
